@@ -7,7 +7,15 @@ This web app helps to predict the Parkinson disease (status) of a patient. It ca
 
 * Only by uploading an input csv containg all the required reports, a detailed updated csv file including the patient status can be generated easily.
 
-Here is a demo video :
+# WorkFlow
+
+* Collected Dataset from Kaggle 
+* Pre-Processed Dataset (Scaling)
+* Applied Support Vector Machine (SVM) Algorithm 
+* Created Web-App and connected it
+
+
+# Demo video 
 
 https://user-images.githubusercontent.com/104271917/197356212-276ff77d-1b21-4ee4-9e6c-3a13a5ea21ca.mp4
 
