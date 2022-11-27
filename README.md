@@ -1,8 +1,8 @@
-# Parkinson-Web-App
+# Parkinson Detection (Web-App)
+
+In order to enhance the standard of patient care, machine learning is being leveraged in this project to evaluate and manipulate healthcare data. In the backend, advanced ML algorithms have been used to diagnose Parkinson's disease. Then, a good amount of advanced features were included in the front-end to make this web application simple to use. Simply, This web app helps to predict the Parkinson disease (status) of a patient. It can be used any medical test center for fast track there report generator. 
 
 To know more about Parkinson Disease visit https://www.nhs.uk/conditions/parkinsons-disease/ 
-
-This web app helps to predict the Parkinson disease (status) of a patient. It can be used any medical test center for fast track there report generator. 
 
 
 * Only by uploading an input csv containg all the required reports, a detailed updated csv file including the patient status can be generated easily.
